@@ -33,8 +33,11 @@ All the parameters are described in "Parameter_TrafficSim.xlsx"
 # Citation
 Following papers used this tool for generating many thousand scenarios. Please cite one of this paper if you use this tool in your projects.
 
-• A. Chaulwar, M. Botsch, T. Krueger, and T. Miehling, “Planning of Safe Trajectories in Dynamic Multi-Object Traffic-Scenarios”, Journal of Traffic and Logistics Engineering, 2016. [Link]
-• A. Chaulwar, M. Botsch, W. Utschick, “A Hybrid Machine Learning Approach for Planning Safe Trajectories in Complex Traffic-Scenarios, IEEE Int. Conference on Machine Learning and Applications, 2016.[Link]
-• A. Chaulwar, M. Botsch, W. Utschick, “A Machine Learning Based Biased- Sampling Approach for Planning Safe Trajectories in Complex Traffic-Scenarios, IEEE Intelligent Vehicle Symposium, 2017. [Link]
-• A. Chaulwar, M. Botsch, W. Utschick, “Generation of Reference Trajectories for Vehicle Motion Planning, International Conference of Artificial Neural Networks, 2018. [Link]
+• A. Chaulwar, M. Botsch, T. Krueger, and T. Miehling, “Planning of Safe Trajectories in Dynamic Multi-Object Traffic-Scenarios”, Journal of Traffic and Logistics Engineering, 2016. 
+• A. Chaulwar, M. Botsch, W. Utschick, “A Hybrid Machine Learning Approach for Planning Safe Trajectories in Complex Traffic-Scenarios, IEEE Int. Conference on Machine Learning and Applications, 2016.
+• A. Chaulwar, M. Botsch, W. Utschick, “A Machine Learning Based Biased- Sampling Approach for Planning Safe Trajectories in Complex Traffic-Scenarios, IEEE Intelligent Vehicle Symposium, 2017. 
+• A. Chaulwar, M. Botsch, W. Utschick, “Generation of Reference Trajectories for Vehicle Motion Planning, International Conference of Artificial Neural Networks, 2018. 
 • A. Chaulwar, H. Al-Hashimi, M. Botsch, W. Utschick, “Efficient Hybrid Machine Learning Algorithm for Trajectory Planning in Critical Traffic-Scenarios, International Conference of Intelligent Transportation Engineering, 2019.
+
+# Acknowledgment
+This tool was developed in CARISSMA, a vehicle safety research institute at TH Ingolstadt, under the supervision of Prof. Michael Botsch. His other research assistants, Lakshman Balsubramnian and Alberto Flores Fernandez, have extended the tool to make it compatible for Matlab 2018 version.
